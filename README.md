@@ -1,5 +1,6 @@
 FUTURE_ML_02 — Churn Prediction System
 Machine Learning Task 2 – Future Interns
+
 It is implemented for the Future Interns – Machine Learning Internship (Task 2).
 The goal of this project is to build a Customer Churn Prediction System that identifies customers who are likely to stop using a service and provide actionable business insights using Machine Learning and Power BI.
 ________________________________________
@@ -89,4 +90,4 @@ How to Use
 •	Use slicers to explore churn patterns
 ________________________________________
 Conclusion
-This project demonstrates how Machine Learning and Data Analytics can help businesses proactively identify customer churn, understand key churn drivers, and take data-driven actions to improve customer retention.
+This project demonstrates how Machine Learning and Data Analytics can help businesses proactively identify customer churn, understand key churn drivers, and take data-driven actions to improve customer retention
